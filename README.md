@@ -4,8 +4,8 @@ For Data cleaning and preprocessing techniques like MFDXA will be used.
 
 # Timeline
 
-- [ ] Literature Study
-- [ ] Data Collection
+- [ ] Literature Study (in progress)
+- [ ] Data Collection (in progress)
 - [ ] Data Preprocessing 
 - [ ] implementing different models to the dataset 
 - [ ] Data post processing and Analysis of results 
@@ -16,3 +16,7 @@ For Data cleaning and preprocessing techniques like MFDXA will be used.
 - Librosa for audio analysis
 - PyTorch for Deep Learning models
 - MATLAB for preprocessing
+
+# Refrences
+
+1. [Brain2Image](https://dl.acm.org/citation.cfm?doid=3123266.3127907)
