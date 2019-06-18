@@ -1,5 +1,5 @@
 # Music-Reconstruction-using-EEG-signals
-Reconstruction of music using EEG signals. Inspired from [Brain2Image](https://dl.acm.org/citation.cfm?doid=3123266.3127907), reconstruction will be done using generative models like variational autoencoders(VAE) and conditional generative adversarial networks(GANs). Data Collection will be done maually through [Cognitive Neuroscience Lab, BITS Goa](http://bitscogneuro.com/).  
+Reconstruction of music using EEG signals. Inspired from [Brain2Image](https://dl.acm.org/citation.cfm?doid=3123266.3127907), reconstruction will be done using generative models like variational autoencoders(VAE) and conditional generative adversarial networks(GANs).  
 For Data cleaning and preprocessing techniques like MFDXA will be used.
 
 # Timeline
